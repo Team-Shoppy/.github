@@ -3,15 +3,7 @@
 <img src="https://github.com/Team-Shoppy/shoppy-backend/assets/29851990/3c5a26eb-3080-4189-8c19-1da0e47f6883" width="40%" height="40%">
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-3DDC84?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/license-mit-green">
-</p>
-
-## 🛍️ 소개
-
-SHOPPY는 쇼핑몰 구현 프로젝트 <br>
+<br>
 
 
 ## 🖥 서비스 화면
