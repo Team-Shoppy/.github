@@ -27,4 +27,4 @@
 |[차형석](https://github.com/chahyoungseok)|[안세준](https://github.com/asjjun)|[김형진](https://github.com/HyeongjinKim98)|[황의혁](https://github.com/Hwang-uihyuk)|
 
 <br><br>
-🔗 <a href='https://asjjun-shoppy.notion.site/SHOPPY-d51a420c9c9f4f89a73f63481648c022'>Shoppy Notion 페이지</a>
+### 🔗 <a href='https://asjjun-shoppy.notion.site/SHOPPY-d51a420c9c9f4f89a73f63481648c022'>Shoppy Notion 페이지</a>
